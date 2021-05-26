@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning about C programmming language
 - 💞️ I’m looking to collaborate on projects in Artificial Intelligence & Data Science 
-- 📫 How to reach me: Email:sandhijain24.tundla@gmail.com
+- 📫 How to reach me: Email: sandhijain24.tundla@gmail.com
                
 
 
