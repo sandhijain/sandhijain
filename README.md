@@ -8,7 +8,7 @@ I'm Sandhi Jain , a passionate self-taught Data Science Enthusiast from India. I
  <p>
  </p>
 
-<img align="right" alt="GIF" src="https://media1.tenor.com/images/5a162e4c46744a8c1f77f29c3886b4fd/tenor.gif?itemid=13593615" width="500" height="320" />
+<img align="right" alt="GIF" src="https://media1.tenor.com/images/5a162e4c46744a8c1f77f29c3886b4fd/tenor.gif?itemid=13593615" width="320" height="320" />
   <p></p>
   
  <p></p>
