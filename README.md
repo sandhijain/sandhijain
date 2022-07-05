@@ -1,7 +1,6 @@
  ### Hi Everyone
  
 <br />
-
 I'm [Sandhi Jain](), a passionate self-taught Data Science Enthusiast from India. I love working with SQL, Machine Learning Algorithms mixed with nuggets of Statistics.I love critical thinking skills and embrace self-learning. I try to solve problems in unique and creative ways. I'm able to handle pressure by proper planning and prioritization.
 
  Plus, I'm fan of Sudoku and Chess :)
@@ -13,7 +12,7 @@ I'm [Sandhi Jain](), a passionate self-taught Data Science Enthusiast from India
 - 💼 Any Freelance work or Project Collaboration? do reach, [email](mailto:sandhijain24.tundla@gmail.com) :)
 - 💬 Ask me about Data Science, I'm glad to discuss;
 
-**languages and tools:**  
+**Languages and Tools:**  
  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -21,6 +20,8 @@ I'm [Sandhi Jain](), a passionate self-taught Data Science Enthusiast from India
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
  
 
+**Connect with me on different Social Media Handles:**  
+ 
 <a href="https://www.instagram.com/sandhijain24/">
   <img align="left" alt="Sandhi's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -44,16 +45,10 @@ I'm [Sandhi Jain](), a passionate self-taught Data Science Enthusiast from India
  
  
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+ 
 
 
-📈 my github stats
+📈 My Github Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sandhijain&show_icons=true&theme=gotham" alt="sandhijain" />
 
