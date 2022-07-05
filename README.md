@@ -34,8 +34,8 @@ I'm [Sandhi Jain](), a passionate self-taught Data Science Enthusiast from India
   <img align="left" alt="Sandhi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<a href ="https://medium.com/@sandhijain24"
-<img align="left" alt="Sandhi's Medium" width="22px" src="https://cdn.mos.cms.futurecdn.net/uazw6gFQuEC29mxMM55Tpb-1200-80.jpg"/>
+<a href ="https://medium.com/@sandhijain24">
+<img align="left" alt="Sandhi's Medium" width="22px" src="https://medium.com/blogging-guide/mediums-new-logo-2020-unfinished-ellipses-logomark-e24c059871e7" />
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sandhijain.sandhijain)
 
