@@ -1,7 +1,7 @@
  ### Hi Everyone
  
 <br />
-I'm [Sandhi Jain](www.sandhijain.me), a passionate self-taught Data Science Enthusiast from India. I love working with SQL, Machine Learning Algorithms mixed with nuggets of Statistics.I love critical thinking skills and embrace self-learning. I try to solve problems in unique and creative ways. I'm able to handle pressure by proper planning and prioritization.
+I'm [Sandhi Jain](https://deepstash.com/u/sandhijain), a passionate self-taught Data Science Enthusiast from India. I love working with SQL, Machine Learning Algorithms mixed with nuggets of Statistics.I love critical thinking skills and embrace self-learning. I try to solve problems in unique and creative ways. I'm able to handle pressure by proper planning and prioritization.
 
  Plus, I'm fan of Sudoku and Chess :)
  
@@ -12,7 +12,7 @@ I'm [Sandhi Jain](www.sandhijain.me), a passionate self-taught Data Science Enth
   <p>
  </p>
  
-- 💼 Any Freelance work or Project Collaboration? do reach, [email](mailto:sandhijain24.tundla@gmail.com) :)
+- 💼 Any Freelance work or Project Collaboration? reach me at:[email](mailto:sandhijain24.tundla@gmail.com)
 - 💬 Ask me about Data Science, I'm glad to discuss;
 
 **Languages and Tools:**  
