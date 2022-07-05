@@ -43,12 +43,10 @@ I'm [Sandhi Jain](), a passionate self-taught Data Science Enthusiast from India
 ![](https://visitor-badge.glitch.me/badge?page_id=sandhijain.sandhijain)
  
  
- 
+ <p>  
+ </p>
 
- 
-
-
-📈 My Github Stats
+ 📈 My Github Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sandhijain&show_icons=true&theme=gotham" alt="sandhijain" />
 
