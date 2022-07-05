@@ -1,13 +1,13 @@
  ### Hi Everyone
  
 <br />
-I'm [Sandhi Jain](), a passionate self-taught Data Science Enthusiast from India. I love working with SQL, Machine Learning Algorithms mixed with nuggets of Statistics.I love critical thinking skills and embrace self-learning. I try to solve problems in unique and creative ways. I'm able to handle pressure by proper planning and prioritization.
+I'm [Sandhi Jain](sandhijain.xyz), a passionate self-taught Data Science Enthusiast from India. I love working with SQL, Machine Learning Algorithms mixed with nuggets of Statistics.I love critical thinking skills and embrace self-learning. I try to solve problems in unique and creative ways. I'm able to handle pressure by proper planning and prioritization.
 
  Plus, I'm fan of Sudoku and Chess :)
 
 
 
-  <img align="right" alt="GIF" src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr/fullscreen" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://media1.tenor.com/images/5a162e4c46744a8c1f77f29c3886b4fd/tenor.gif?itemid=13593615" width="500" height="320" />
   
 - 💼 Any Freelance work or Project Collaboration? do reach, [email](mailto:sandhijain24.tundla@gmail.com) :)
 - 💬 Ask me about Data Science, I'm glad to discuss;
@@ -37,7 +37,7 @@ I'm [Sandhi Jain](), a passionate self-taught Data Science Enthusiast from India
 
 <a href ="https://medium.com/@sandhijain24">
 <img align="left" alt="Sandhi's Medium" width="22px" src="https://www.graphicdesignforum.com/uploads/default/original/2X/0/0e58f26a6dd982e7f04d1286defd4320e6d6153b.jpeg" />
-
+</a>
 
  
 ![](https://visitor-badge.glitch.me/badge?page_id=sandhijain.sandhijain)
@@ -46,8 +46,8 @@ I'm [Sandhi Jain](), a passionate self-taught Data Science Enthusiast from India
  <p>  
  </p>
 
- 📈 My Github Stats
-
+ 
+My Github Stats 📈
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sandhijain&show_icons=true&theme=gotham" alt="sandhijain" />
 
 
