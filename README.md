@@ -50,10 +50,10 @@ I'm Sandhi Jain , a passionate self-taught Data Science Enthusiast from India. I
  <p></p>
  
   <p></p>
-
+<!-- 
  
-My Github Stats 📈
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sandhijain&show_icons=true&theme=gotham" alt="sandhijain" />
+//My Github Stats 📈
+//<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sandhijain&show_icons=true&theme=gotham" alt="sandhijain" /> -->
 
 
 
