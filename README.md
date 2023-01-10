@@ -30,7 +30,7 @@ I'm Sandhi Jain , a passionate self-taught Data Science Enthusiast from India. I
   <img align="left" alt="Sandhi's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://sandhijain.hashnode.dev/">
-  <img align="left" alt="Sandhi's Blog" width="22px" src="https://nodesk.co/remote-companies/assets/logos/hashnode.ce05a1bf065a2760002b1e035284f88b06287188e63d5847eff511a20d7a7eaf.jpg" />
+  <img align="left" alt="Sandhi's Blog" width="22px" src="https://nodesk.co/remote-companies/assets/logos/hashnode.ce05a1bf065a2760002b1e035284f88b06287188e63d5847eff511a20d7a7eaf.jpg](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1592752137870%2FscHk9tTaA.png%3Fauto%3Dcompress&f=1&nofb=1&ipt=c4877116e17f61aa548cd376076ca40b0620c50185d9bcf0d98a0b940182adc8&ipo=images" />
 </a>
 <a href="https://twitter.com/24_dataphile">
   <img align="left" alt="Sandhi Jain | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
