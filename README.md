@@ -12,7 +12,9 @@ I'm fueled by curiosity and a love for problem-solving. Whether it's crafting ma
  
 📊 **SQL Mastery:** Daily practice to sharpen SQL skills and unlock the power of data management.
 
-🌟 **Daily Learning Journey:** Committed to acquiring new insights in data science, AI, and software development every single day.
+🌟 **[Daily Learning Journey](https://sandhijain.notion.site/Code-Data-Chronicles-118abada5b9c422795a6b152db97998f?pvs=4):** Committed to acquiring new insights in data science, AI, and software development every single day.
+
+  
 
  # 🌟 **Why Connect With Me?**
 
@@ -43,6 +45,7 @@ Ready to embark on this exciting journey together? Let's connect and inspire inn
 💡 LeetCode:
 
 [leetcode.com/sandhijain](https://leetcode.com/sandhijain)
+
  
  
   
