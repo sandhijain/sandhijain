@@ -11,8 +11,10 @@ I'm fueled by curiosity and a love for problem-solving. Whether it's crafting ma
 🚀 **100 Days of Coding Challenge:** Regularly coding DSA
  
 📊 **SQL Mastery:** Daily practice to sharpen SQL skills and unlock the power of data management.
-      * [DataLemur](https://datalemur.com/profile)
-      * [Leetcode](https://leetcode.com/sandhijain/)
+      1. [DataLemur](https://datalemur.com/profile)
+      2. [Leetcode](https://leetcode.com/sandhijain/)
+ 
+
 
 🌟 **[Daily Learning Journey](https://sandhijain.notion.site/Code-Data-Chronicles-118abada5b9c422795a6b152db97998f?pvs=4):** Committed to acquiring new insights in data science, AI, and software development every single day.
  
