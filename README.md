@@ -6,6 +6,7 @@ Passionate about the limitless possibilities of data, I'm Sandhi Jain, a dynamic
 
 I'm fueled by curiosity and a love for problem-solving. Whether it's crafting machine learning algorithms, creating dynamic web experiences, or diving into the latest technological innovations, I'm always eager to explore the next frontier. My commitment to continuous learning ensures I stay at the forefront of the ever-evolving tech landscape.
 
+<!--
 # 🏆 **Challenges Accepted & Ongoing**
 
 🚀 **100 Days of Coding Challenge:** Regularly coding DSA
@@ -17,7 +18,7 @@ I'm fueled by curiosity and a love for problem-solving. Whether it's crafting ma
 
 
 🌟 **Daily Learning Journey:** Committed to acquiring new insights in data science, AI, and software development every single day.
- 
+ -->
  
   
  
