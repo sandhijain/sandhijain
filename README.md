@@ -28,10 +28,6 @@ Ready to embark on this exciting journey together? Let's connect and inspire inn
 
 [@sandhijain_](https://twitter.com/sandhijain_)
 
-📷 Instagram:
-
-[@sandhijain_](https://www.instagram.com/sandhijain_)
-
 👔 LinkedIn:
 
 [linkedin.com/in/sandhijain](https://www.linkedin.com/in/YourLinkedInProfile)
