@@ -13,39 +13,6 @@ I'm fueled by curiosity and a love for problem-solving. Whether it's crafting ma
 📊 **SQL Mastery:** Daily practice to sharpen SQL skills and unlock the power of data management.
 
 🌟 **[Daily Learning Journey](https://sandhijain.notion.site/Code-Data-Chronicles-118abada5b9c422795a6b152db97998f?pvs=4):** Committed to acquiring new insights in data science, AI, and software development every single day.
-
-  
-
- # 🌟 **Why Connect With Me?**
-
-Let's collaborate and explore opportunities to turn data-driven dreams into reality. Whether you're seeking insights, innovative solutions, or simply a tech-savvy collaborator, I'm here to add value to your journey. Join me in harnessing the power of data and technology to drive progress and make a meaningful impact.
-
-Ready to embark on this exciting journey together? Let's connect and inspire innovation! 🌐📊🤝
-
-📧 Email:
-
-  [sandhijain24.tundla@gmail.com](mailto:sandhijain24.tundla@gmail.com)
-
-🐦 Twitter:
-
-[@sandhijain_](https://twitter.com/sandhijain_)
-
-👔 LinkedIn:
-
-[linkedin.com/in/sandhijain](https://www.linkedin.com/in/YourLinkedInProfile)
-
-👨‍💻 GitHub:
-
-[github.com/sandhijain](https://github.com/sandhijain)
-
-📊 Kaggle:
-
-[kaggle.com/sandhijain](https://www.kaggle.com/sandhijain)
-
-💡 LeetCode:
-
-[leetcode.com/sandhijain](https://leetcode.com/sandhijain)
-
  
  
   
