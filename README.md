@@ -16,7 +16,7 @@ I'm fueled by curiosity and a love for problem-solving. Whether it's crafting ma
  
 
 
-🌟 **[Daily Learning Journey](https://sandhijain.notion.site/Code-Data-Chronicles-118abada5b9c422795a6b152db97998f?pvs=4](https://www.notion.so/sandhijain/Code-Data-Chronicles-118abada5b9c422795a6b152db97998f?pvs=4)):** Committed to acquiring new insights in data science, AI, and software development every single day.
+🌟 **Daily Learning Journey:** Committed to acquiring new insights in data science, AI, and software development every single day.
  
  
   
