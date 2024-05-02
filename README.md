@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandhi Jain</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandhijain&label=Profile%0views&color=0e75b6&style=flat" alt="sandhijain" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandhijain&label=Profile%20views&color=0e75b6&style=flat" alt="sandhijain" /> </p>
 
 - 🔭 I’m currently working on **some personal projects on Java EE Development**
 
